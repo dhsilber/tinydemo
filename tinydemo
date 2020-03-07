@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Hello from this Tiny Demo!"
+echo
+echo ${SECRET:-"What is your secret message?"}
+
